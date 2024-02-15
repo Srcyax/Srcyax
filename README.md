@@ -4,17 +4,17 @@ Me chamo [Seu Nome] e sou [sua profissão/área de atuação]. Sou apaixonado po
 
 ## 🔭 Atualmente estou trabalhando em
 
-- [Projeto 1](link_projeto_1): Breve descrição do projeto 1.
-- [Projeto 2](link_projeto_2): Breve descrição do projeto 2.
+- [QuizzHub](https://github.com/Srcyax/quizz): Teste seus conhecimentos no QuizzHub
+- [Portifolio](https://github.com/Srcyax/portfolio): Meu projeto de portfólio
 
 ## 🌱 Estou aprendendo
 
-- [Tecnologia 1](link_recurso_tecnologia_1): Descrição do que está aprendendo sobre tecnologia 1.
-- [Tecnologia 2](link_recurso_tecnologia_2): Descrição do que está aprendendo sobre tecnologia 2.
+- [TailwindCSS](https://tailwindcss.com/): Crie sites modernos rapidamente, sem sair do HTML.
+- [Next.js](https://nextjs.org/): Tudo que você precisa para criar ótimos produtos na web.
 
 ## 📫 Como me encontrar
 
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/cya-x-5a9262219/)
+- LinkedIn: [](https://www.linkedin.com/in/cya-x-5a9262219/)
 
 
 ## 🚀 Estatísticas do GitHub
