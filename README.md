@@ -1,6 +1,6 @@
 # Olá, Mundo! 👋
 
-Me chamo [Seu Nome] e sou [sua profissão/área de atuação]. Sou apaixonado por [suas paixões ou áreas de interesse]. Sempre buscando aprender e compartilhar conhecimento!
+Me chamo Luiz Philip. Sou apaixonado por Desenvolvimento Web. Sempre buscando aprender e compartilhar conhecimento!
 
 ## 🔭 Atualmente estou trabalhando em
 
