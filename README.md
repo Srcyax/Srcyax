@@ -15,7 +15,7 @@ Me chamo Luiz Philip. Sou apaixonado por Desenvolvimento Web. Sempre buscando ap
 
 ## 📫 Como me encontrar
 
-- LinkedIn: [Luiz Philipe]([https://www.linkedin.com/in/luiz-philipe-875ab42a1/])
+- LinkedIn: [Luiz Philipe](https://www.linkedin.com/in/luiz-philipe-875ab42a1/)
 
 
 ## 🚀 Estatísticas do GitHub
