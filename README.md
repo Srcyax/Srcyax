@@ -4,9 +4,7 @@ Me chamo Luiz Philip. Sou apaixonado por Desenvolvimento Web. Sempre buscando ap
 
 ## 🔭 Atualmente estou trabalhando em
 
-- [QuizzHub](https://github.com/Srcyax/quizz): Teste seus conhecimentos no QuizzHub
-- [Portifolio](https://github.com/Srcyax/portfolio): Meu projeto de portfólio
-- [Netflix clone](https://github.com/Srcyax/netflix-clone): Clone do site da Netflix
+- [Blog hub](https://github.com/Srcyax/blog-hub): Teste seus conhecimentos no QuizzHub
 
 ## 🌱 Estou aprendendo
 
