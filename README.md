@@ -4,7 +4,7 @@ Me chamo Luiz Philip. Sou apaixonado por Desenvolvimento Web. Sempre buscando ap
 
 ## 🔭 Atualmente estou trabalhando em
 
-- [Blog hub](https://github.com/Srcyax/blog-hub): Teste seus conhecimentos no QuizzHub
+- [Chatzy](https://github.com/Srcyax/Chatzy): Converse e encontre amigos no Chatzy 
 
 ## 🌱 Estou aprendendo
 
