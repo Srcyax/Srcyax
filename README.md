@@ -1,10 +1,8 @@
 # Olá, Mundo! 👋
 
-Me chamo Luiz Philip. Sou apaixonado por Desenvolvimento Web. Sempre buscando aprender e compartilhar conhecimento!
-
 ## 🔭 Atualmente estou trabalhando em
 
-- [Chatzy](https://github.com/Srcyax/Chatzy): Converse e encontre amigos no Chatzy 
+- [Yamacha](https://yamacha-site.vercel.app/): Fivem anti-cheat
 
 ## 🌱 Estou aprendendo
 
