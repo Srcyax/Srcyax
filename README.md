@@ -6,8 +6,8 @@
 
 ## 🌱 What I'm Learning
 
-- [TailwindCSS](https://tailwindcss.com/): Build modern sites quickly without leaving your HTML.
-- [Next.js](https://nextjs.org/): Everything you need to make great web products.
+- [TailwindCSS](https://tailwindcss.com/)
+- [Next.js](https://nextjs.org/)
 
 ## 📫 How to Reach Me
 
