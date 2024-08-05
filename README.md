@@ -2,7 +2,7 @@
 
 ## 🔭 Atualmente estou trabalhando em
 
-- [Yamacha](https://yamacha-site.vercel.app/): Fivem anti-cheat
+- [Yamacha](https://yamacha.site/): Fivem anti-cheat
 
 ## 🌱 Estou aprendendo
 
