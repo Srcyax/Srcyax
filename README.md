@@ -15,6 +15,6 @@
 
 ## 🚀 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srcyax&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srcyax&layout=compact)](https://github.com/Srcyax)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srcyax&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srcyax)](https://github.com/Srcyax)
