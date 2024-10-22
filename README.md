@@ -2,7 +2,7 @@
 
 ## 🔭 What I'm Currently Working On
 
-- [Dream Market](https://dream-market-aic5.vercel.app/): Your gateway to buying and selling products and services.
+- [Lux stream](https://lux-stream.vercel.app/): Your free portal for movies and series. Access and watch anytime, hassle-free.
 
 ## 🌱 What I'm Learning
 
