@@ -2,7 +2,7 @@
 
 ## 🔭 What I'm Currently Working On
 
-- [Ryze Tweaks](https://ryze-tweakss.vercel.app/): Ryze Tweaks is dedicated to helping gamers and tech enthusiasts get the best performance out of their computers.
+- [Ryze Tweaks](https://ryzetweaks.com/): Ryze Tweaks is dedicated to helping gamers and tech enthusiasts get the best performance out of their computers.
 
 ## 🌱 What I'm Learning
 
